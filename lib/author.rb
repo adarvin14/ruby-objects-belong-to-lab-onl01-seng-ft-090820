@@ -2,7 +2,7 @@ class Author
   
   attr_accessor :name
   
-  def initialize(name)
+  def initilize(name)
     @name = name
   end
   
